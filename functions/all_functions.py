@@ -28,3 +28,5 @@ def prim_number(num):
 func=prim_number(11)
 print(func)
             
+
+
