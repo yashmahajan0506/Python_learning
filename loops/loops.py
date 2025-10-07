@@ -6,7 +6,6 @@ print(sum_1)
 
 
 
-
 i=1
 sum=0
 
