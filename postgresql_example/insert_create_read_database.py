@@ -28,4 +28,6 @@ rows = cursor.fetchall()
 print(" Employee Records:")
 for row in rows:
         print(row)
+        
+print(row)
 
